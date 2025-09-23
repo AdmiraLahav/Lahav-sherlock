@@ -1,4 +1,6 @@
 APClips
+Coders Rank
+Flipboard
 Freelance.habr
 GNOME VCS
 Giphy
@@ -9,16 +11,18 @@ LushStories
 Mydramalist
 PepperIT
 PocketStars
+Pornhub
+Rajce.net
 Reddit
 Roblox
 RocketTube
-SlideShare
 Splice
 Spotify
-Strava
 Topcoder
 Weblate
 YandexMusic
 kaskus
+opennet
 svidbook
 threads
+xHamster
