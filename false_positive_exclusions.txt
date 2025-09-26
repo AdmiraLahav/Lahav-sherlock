@@ -1,5 +1,4 @@
 APClips
-Coders Rank
 Freelance.habr
 GNOME VCS
 Giphy
@@ -14,14 +13,12 @@ Reddit
 Roblox
 RocketTube
 SlideShare
-SoylentNews
 Splice
 Spotify
 Topcoder
 Weblate
-Wordnik
 YandexMusic
 kaskus
+opennet
 svidbook
 threads
-xHamster
