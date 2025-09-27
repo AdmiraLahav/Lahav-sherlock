@@ -1,8 +1,11 @@
 APClips
+Coders Rank
 Freelance.habr
 GNOME VCS
 Giphy
+GitHub
 HackerEarth
+HackerRank
 Heavy-R
 LessWrong
 LushStories
