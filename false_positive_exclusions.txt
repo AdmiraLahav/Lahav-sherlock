@@ -1,5 +1,6 @@
 APClips
 Coders Rank
+DeviantART
 Freelance.habr
 GNOME VCS
 Giphy
@@ -16,7 +17,6 @@ RocketTube
 SlideShare
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
 kaskus
