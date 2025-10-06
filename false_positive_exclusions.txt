@@ -1,7 +1,7 @@
 APClips
 BoardGameGeek
 Coders Rank
-CyberDefenders
+Dribbble
 Freelance.habr
 GNOME VCS
 Giphy
@@ -20,7 +20,7 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
+eintracht
 kaskus
-opennet
 svidbook
 threads
