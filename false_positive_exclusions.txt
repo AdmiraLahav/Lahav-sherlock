@@ -1,7 +1,6 @@
 APClips
 BoardGameGeek
 Coders Rank
-Dribbble
 Freelance.habr
 GNOME VCS
 Giphy
@@ -17,10 +16,10 @@ RocketTube
 SlideShare
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
 eintracht
 kaskus
+opennet
 svidbook
 threads
