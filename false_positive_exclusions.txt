@@ -1,7 +1,4 @@
 APClips
-CGTrader
-Coders Rank
-DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
@@ -9,6 +6,7 @@ Heavy-R
 LushStories
 PepperIT
 PocketStars
+Rajce.net
 Reddit
 RocketTube
 Splice
