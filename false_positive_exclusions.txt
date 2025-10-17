@@ -1,10 +1,9 @@
 APClips
 Coders Rank
-DeviantArt
+Cults3D
 GNOME VCS
 Giphy
 HackerEarth
-Heavy-R
 LushStories
 PepperIT
 PocketStars
@@ -12,9 +11,8 @@ Reddit
 RocketTube
 Splice
 Spotify
-Topcoder
 Weblate
-YandexMusic
 kaskus
 opennet
+phpRU
 svidbook
