@@ -1,11 +1,11 @@
 APClips
+Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
-Itch.io
 LessWrong
-LushStories
+LiveJournal
 PepperIT
 PocketStars
 Reddit
@@ -15,6 +15,7 @@ Spotify
 Topcoder
 Weblate
 YandexMusic
+eintracht
 kaskus
 opennet
 svidbook
