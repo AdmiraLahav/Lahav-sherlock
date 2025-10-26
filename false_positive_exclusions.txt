@@ -1,8 +1,10 @@
 APClips
+Blogger
 DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
+Itch.io
 LessWrong
 LushStories
 PepperIT
@@ -11,9 +13,8 @@ Reddit
 RocketTube
 Splice
 Spotify
+Topcoder
 Weblate
 YandexMusic
 kaskus
-opennet
 svidbook
-xHamster
