@@ -1,9 +1,9 @@
 APClips
+Coders Rank
 DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
-HackerRank
 LessWrong
 LushStories
 PepperIT
@@ -17,5 +17,6 @@ Weblate
 YandexMusic
 kaskus
 opennet
+phpRU
 svidbook
 xHamster
