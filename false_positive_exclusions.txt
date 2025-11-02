@@ -12,11 +12,9 @@ Reddit
 RocketTube
 Splice
 Spotify
-Topcoder
 Weblate
 YandexMusic
 kaskus
 opennet
 phpRU
 svidbook
-xHamster
