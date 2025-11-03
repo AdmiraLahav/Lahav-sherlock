@@ -1,6 +1,7 @@
 APClips
-Coders Rank
+Audiojungle
 DeviantArt
+Dribbble
 GNOME VCS
 Giphy
 HackerEarth
@@ -15,6 +16,5 @@ Spotify
 Weblate
 YandexMusic
 kaskus
-opennet
 phpRU
 svidbook
