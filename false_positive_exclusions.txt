@@ -1,10 +1,9 @@
 APClips
-Audiojungle
-DeviantArt
-Dribbble
+Coders Rank
 GNOME VCS
 Giphy
 HackerEarth
+HackerRank
 LessWrong
 LushStories
 PepperIT
@@ -16,5 +15,6 @@ Spotify
 Weblate
 YandexMusic
 kaskus
+opennet
 phpRU
 svidbook
