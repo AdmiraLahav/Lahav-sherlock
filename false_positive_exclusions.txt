@@ -1,6 +1,7 @@
 APClips
 Archive.org
 Coders Rank
+DeviantArt
 GNOME VCS
 Giphy
 HackerEarth
@@ -10,11 +11,12 @@ PepperIT
 PocketStars
 Reddit
 RocketTube
+Slashdot
 Splice
 Spotify
 Weblate
 YandexMusic
 kaskus
 opennet
-phpRU
 svidbook
+xHamster
