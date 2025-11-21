@@ -3,17 +3,18 @@ Archive.org
 DeviantArt
 GNOME VCS
 Giphy
+Gumroad
 LushStories
 PocketStars
 Reddit
 RocketTube
-Slack
+RuneScape
 Splice
 Spotify
 Trovo
 Weblate
 YandexMusic
-eintracht
 opennet
 phpRU
 svidbook
+xHamster
