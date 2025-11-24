@@ -4,13 +4,14 @@ DeviantArt
 GNOME VCS
 Giphy
 LushStories
-Minecraft
+Mamot
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
-Trovo
 Weblate
 YandexMusic
+opennet
 svidbook
+xHamster
