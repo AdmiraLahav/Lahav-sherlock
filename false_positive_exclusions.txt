@@ -1,16 +1,15 @@
 APClips
 Archive.org
-Dribbble
+Coders Rank
 GNOME VCS
 GeeksforGeeks
 Giphy
-LushStories
+Minecraft
 PocketStars
 Reddit
 RocketTube
 Splice
 Spotify
-Strava
 Weblate
 YandexMusic
 opennet
