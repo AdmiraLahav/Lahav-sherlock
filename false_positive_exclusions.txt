@@ -4,12 +4,11 @@ Coders Rank
 GNOME VCS
 GeeksforGeeks
 Giphy
-Itch.io
-LiveJournal
 LushStories
 PocketStars
 Reddit
 RocketTube
+SpeakerDeck
 Splice
 Spotify
 Weblate
