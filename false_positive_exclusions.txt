@@ -6,9 +6,11 @@ DeviantArt
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hubski
-LushStories
+Minecraft
 PocketStars
+Rajce.net
 Reddit
 RocketTube
 Splice
@@ -18,3 +20,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
+xHamster
