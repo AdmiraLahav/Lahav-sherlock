@@ -20,4 +20,4 @@ Weblate
 YandexMusic
 opennet
 svidbook
-xHamster
+threads
