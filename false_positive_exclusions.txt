@@ -6,14 +6,13 @@ Fandom
 GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hubski
-LushStories
-Motherless
 PocketStars
+Realmeye
 Reddit
 RocketTube
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
@@ -24,4 +23,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
