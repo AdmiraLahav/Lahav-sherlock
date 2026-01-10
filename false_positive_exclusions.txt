@@ -1,14 +1,15 @@
 APClips
 Archive.org
-CGTrader
 Code Snippet Wiki
-Cracked Forum
 DeviantArt
+Eintracht Frankfurt Forum
 Fandom
-GNOME VCS
 GeeksforGeeks
 Giphy
+HackerRank
 Hubski
+LushStories
+Minecraft
 PocketStars
 Realmeye
 Reddit
@@ -22,5 +23,8 @@ Trovo
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
+threads
+xHamster
