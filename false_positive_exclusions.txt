@@ -8,6 +8,7 @@ Giphy
 Hubski
 LushStories
 PocketStars
+Python.org Discussions
 Realmeye
 Reddit
 RocketTube
@@ -19,7 +20,9 @@ Spotify
 TryHackMe
 Weblate
 YandexMusic
+eintracht
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
