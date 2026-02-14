@@ -1,26 +1,30 @@
 APClips
+Archive of Our Own
 Archive.org
 Code Snippet Wiki
 Fandom
-GNOME VCS
 GeeksforGeeks
 Giphy
 Hubski
+Itch.io
 LushStories
 Minecraft
 PocketStars
 Realmeye
 Reddit
+ReverbNation
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
+SpeakerDeck
 Splice
 Spotify
 TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
+xHamster
