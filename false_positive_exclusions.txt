@@ -1,14 +1,14 @@
 APClips
 Archive.org
-Carbonmade
 Codolio
-GNOME VCS
+Cults3D
+DeviantArt
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
+LiveJournal
 LushStories
 Patched
 PocketStars
@@ -16,13 +16,14 @@ Rarible
 Realmeye
 Reddit
 RocketTube
-RuneScape
 Scribd
 SlideShare
 Smule
+SoylentNews
 Splice
 Spotify
 Strava
+Trovo
 TryHackMe
 Weblate
 YandexMusic
