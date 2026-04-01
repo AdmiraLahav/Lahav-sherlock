@@ -2,7 +2,6 @@
 APClips
 Archive.org
 Codolio
-DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -16,12 +15,12 @@ Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Weblate
 YandexMusic
