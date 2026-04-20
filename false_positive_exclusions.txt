@@ -2,10 +2,9 @@
 APClips
 Apple Discussions
 Archive.org
+Audiojungle
 Bandcamp
-CGTrader
 Codolio
-DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
@@ -13,20 +12,18 @@ Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
-Motherless
 Patched
 PocketStars
 Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
 Velomania
 Weblate
