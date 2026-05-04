@@ -6,6 +6,7 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -17,6 +18,7 @@ LessWrong
 LushStories
 Minecraft
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -26,6 +28,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Tenor
 Trovo
 TryHackMe
 Velomania
