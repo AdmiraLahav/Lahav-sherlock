@@ -30,6 +30,7 @@ Velomania
 Weblate
 YandexMusic
 dailykos
+igromania
 interpals
 mercadolivre
 opennet
