@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Codolio
 DeviantArt
 Discord.bio
@@ -13,10 +14,11 @@ Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
+Houzz
 Hubski
-Itch.io
 LessWrong
 LushStories
+Minecraft
 Odysee
 Patched
 Pornhub
@@ -42,3 +44,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
