@@ -8,6 +8,7 @@ ArtStation
 Bandcamp
 BreachSta.rs Forum
 Codolio
+DEV Community
 DeviantArt
 Discord.bio
 Envato Forum
@@ -16,6 +17,7 @@ Giphy
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
 LushStories
 Odysee
@@ -44,4 +46,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
