@@ -11,13 +11,13 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Houzz
 Hubski
 LessWrong
 LushStories
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -26,7 +26,6 @@ Reddit
 Replit.com
 RocketTube
 Scribd
-Slack
 SlideShare
 Splice
 Spotify
