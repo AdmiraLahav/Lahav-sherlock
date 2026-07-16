@@ -13,15 +13,13 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-Gravatar
 Hashnode
 Houzz
 Hubski
 LessWrong
-LinkedIn
-LushStories
 Odysee
 PCGamer
+Patched
 Pornhub
 Rarible
 Realmeye
@@ -39,9 +37,11 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
+eintracht
 igromania
 interpals
 mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
