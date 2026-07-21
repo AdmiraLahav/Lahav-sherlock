@@ -6,9 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-BreachSta.rs Forum
 Codolio
-Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -17,6 +15,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
+LinkedIn
 LushStories
 Minecraft
 Odysee
@@ -28,6 +27,7 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
+RuneScape
 Scribd
 SlideShare
 Splice
@@ -42,7 +42,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
