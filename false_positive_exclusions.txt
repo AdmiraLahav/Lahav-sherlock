@@ -12,15 +12,14 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-Gumroad
 Hashnode
 Hubski
 LessWrong
 LinkedIn
 LushStories
 Odysee
-OurDJTalk
 PCGamer
+Patched
 Pornhub
 Rarible
 Realmeye
@@ -42,4 +41,5 @@ interpals
 mercadolivre
 opennet
 phpRU
+svidbook
 xHamster
