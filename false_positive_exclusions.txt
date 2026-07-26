@@ -16,6 +16,8 @@ Hashnode
 Hubski
 LessWrong
 LinkedIn
+LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -28,7 +30,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Weblate
@@ -41,3 +42,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
