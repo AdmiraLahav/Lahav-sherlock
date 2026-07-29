@@ -5,18 +5,22 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Instapaper
 LessWrong
 LinkedIn
 LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -25,6 +29,8 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
+Scribd
+Signal
 SlideShare
 Splice
 Spotify
