@@ -6,6 +6,7 @@ Archive.org
 ArtStation
 Bandcamp
 Blogger
+Carbonmade
 Chatujme.cz
 Codolio
 DeviantArt
@@ -20,11 +21,10 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
+Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -35,13 +35,13 @@ Scribd
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Weblate
 YandexMusic
 authorSTREAM
 dailykos
-dcinside
 igromania
 interpals
 mercadolivre
