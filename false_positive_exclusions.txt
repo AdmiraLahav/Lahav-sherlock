@@ -20,10 +20,9 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
+Minecraft
 Odysee
-OurDJTalk
 PCGamer
-Patched
 Pornhub
 Rarible
 Realmeye
@@ -35,10 +34,11 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
@@ -50,3 +50,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
