@@ -6,7 +6,9 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Chatujme.cz
+Chess
 Codolio
 Cracked Forum
 DeviantArt
@@ -21,6 +23,7 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
+Minecraft
 Odysee
 PCGamer
 Pornhub
@@ -34,7 +37,6 @@ Scribd
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
@@ -50,4 +52,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
